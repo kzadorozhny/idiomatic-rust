@@ -21,6 +21,21 @@ You can find a sortable/searchable version of this list [here](https://corrode.d
 
 Contributions welcome! To add missing resources, [please refer to the contributing documentation](https://github.com/mre/idiomatic-rust/blob/master/CONTRIBUTING.md).
 
+## 🤖 Use as a Claude Code Skill
+
+This repository ships an installable [Claude Code](https://claude.com/claude-code) skill that applies the rules in this corpus as a code review.
+
+Install it from the Claude Code plugin marketplace:
+
+```sh
+/plugin marketplace add mre/idiomatic-rust
+/plugin install idiomatic-rust-review@idiomatic-rust
+```
+
+The skill activates automatically when you ask Claude Code to review Rust code, refactor a `.rs` file, or when the conversation contains Rust source. To remove it: `/plugin uninstall idiomatic-rust-review@idiomatic-rust`.
+
+Source: [`skills/idiomatic-rust-review/`](skills/idiomatic-rust-review/).
+
 ## ⚙ Projects
 
 {% for project in projects -%}
