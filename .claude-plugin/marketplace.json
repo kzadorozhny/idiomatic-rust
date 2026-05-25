@@ -1,0 +1,14 @@
+{
+  "name": "idiomatic-rust",
+  "owner": {
+    "name": "mre"
+  },
+  "description": "Idiomatic Rust resources and a code-review skill for Claude Code.",
+  "plugins": [
+    {
+      "name": "idiomatic-rust-review",
+      "source": "./",
+      "description": "Review Rust code for idiomatic style, API ergonomics, error handling, ownership, and common anti-patterns."
+    }
+  ]
+}

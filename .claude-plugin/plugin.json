@@ -1,0 +1,5 @@
+{
+  "name": "idiomatic-rust-review",
+  "description": "Review Rust code for idiomatic style, API ergonomics, error handling, ownership, and common anti-patterns.",
+  "version": "0.1.0"
+}
