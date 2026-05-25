@@ -130,6 +130,19 @@
     "category": "project"
   },
   {
+    "title": "Idiomatic Rust Review Skill",
+    "url": "https://github.com/mre/idiomatic-rust/tree/master/skills/idiomatic-rust-review",
+    "description": "A Claude Code skill containing a peer-reviewed ruleset for reviewing Rust code, synthesized from this repository's corpus, the Rust API Guidelines, Canonical's Rust Best Practices, Elements of Rust, and Clippy's lint set.",
+    "tags": ["review", "skill", "ruleset", "best-practices"],
+    "official": false,
+    "year": 2026,
+    "difficultyLevel": "all",
+    "duration": null,
+    "interactivityLevel": "low",
+    "free": true,
+    "category": "project"
+  },
+  {
     "title": "Comprehensive Rust",
     "url": "https://github.com/google/comprehensive-rust",
     "description": "A four day Rust course developed by the Android team, covering all aspects of Rust.",

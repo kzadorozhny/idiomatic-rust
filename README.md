@@ -28,6 +28,7 @@ Contributions welcome! To add missing resources, [please refer to the contributi
 - [cheats.rs - Idiomatic Rust tips](https://cheats.rs/) — A list of quick tips to make your code more idiomatic.
 - [clippy](https://github.com/rust-lang/rust-clippy) — A bunch of lints to catch common mistakes and improve your Rust code.
 - [Elements of Rust](https://github.com/ferrous-systems/elements-of-rust) — A collection of software engineering techniques for effectively expressing intent with Rust.
+- [Idiomatic Rust Review Skill](https://github.com/mre/idiomatic-rust/tree/master/skills/idiomatic-rust-review) — A Claude Code skill containing a peer-reviewed ruleset for reviewing Rust code, synthesized from this repository's corpus, the Rust API Guidelines, Canonical's Rust Best Practices, Elements of Rust, and Clippy's lint set.
 - [Patterns](https://rust-unofficial.github.io/patterns/) — A catalogue of design patterns in Rust.
 - [Possible Rust](https://www.possiblerust.com/) — A blog for intermediate Rust programmers exploring real-world code and design patterns.
 - [Rust Anthology](https://github.com/brson/rust-anthology) — The best short-form writing about Rust, collected.
